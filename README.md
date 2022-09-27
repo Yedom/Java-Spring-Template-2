@@ -1,3 +1,6 @@
-# Games
-Java Spring web site
-![Снимок экрана 2021-11-17 121853](https://user-images.githubusercontent.com/25348980/142172671-19a278aa-e535-4a6d-90b2-f4229458a940.png)
+<b>Java Spring Template №2</b>
+<hr />
+Primary source: https://github.com/MrAlexeiMK/Games  
+  
+Video Guide (how to launch): https://www.youtube.com/watch?v=Q8KUwtnGKHg
+<hr />
